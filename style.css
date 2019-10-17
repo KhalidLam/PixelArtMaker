@@ -1,0 +1,43 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px ;
+    text-align: center;
+}
+
+h1 {
+    font: 800 4rem sans-serif;
+}
+  
+h2 {
+    font-weight: 700;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type="number"] {
+    width: 70px;
+}
+
+input[type="submit"]{
+    background: none;
+    border-radius: 2px;
+    border: 1px solid #666;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table,tr, td {
+    border: 1px solid black;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
